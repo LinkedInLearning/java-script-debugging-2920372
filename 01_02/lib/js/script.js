@@ -1,0 +1,1 @@
+document.write("<hr />" + new Date().getHours() + "<hr />");

@@ -1,0 +1,1 @@
+document.getElementById("info").innerHTML="<hr />" + new Date().getHours() + "<hr />";
