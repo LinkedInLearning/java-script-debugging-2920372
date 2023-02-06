@@ -20,5 +20,5 @@ _Autor, Entwickler, Trainer und Coach_
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ralph-steyer) an.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/javascript-debugging
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/C560DAQFFVU-sDbAC3g/learning-public-crop_675_1200/0/1674817324338?e=2147483647&v=beta&t=Ok-EMSSRIKXh1WpHJqkPC_IGe_8KwtE5Xt2MNlXFDl0
